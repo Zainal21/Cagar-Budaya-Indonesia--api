@@ -11,7 +11,7 @@ module.exports = async (req, res) => {
       message: "please input region code"
     });
   } else {
-    const fileJson = path.join(__dirname, '..', 'data/', kode_wilayah+'.json')
+    const fileJson = path.join(__dirname, '..', 'data/', kode_wilayah + '.json')
     const data = await fs.readFile(fileJson, 'utf-8')
     const JsonResult = JSON.parse(data)
     res.status(200).send(JsonResult)
