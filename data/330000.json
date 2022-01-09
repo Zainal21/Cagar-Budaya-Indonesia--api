@@ -1,0 +1,22 @@
+{
+  "data": [{
+    "cagar_budaya_id": "08642FC3-D4E2-4EFC-90EC-9B76CE772C55",
+    "kode_pengelolaan": "KB001673",
+    "nama": "Kompleks Makam Raja-raja BangaE Ondongan",
+    "alamat_jalan": "-",
+    "desa_kelurahan": "Ondongan",
+    "kecamatan": "Kec. Banggae",
+    "kabupaten_kota": "Kab. Majene",
+    "propinsi": "Prop. Sulawesi Barat",
+    "lintang": "-3.5474160",
+    "bujur": "118.9625419",
+    "nomor_penetapan": "240\/M\/1999",
+    "tanggal_penetapan": null,
+    "batas_barat": null,
+    "batas_selatan": null,
+    "batas_utara": null,
+    "batas_timur": null,
+    "pemilik": null,
+    "pengelola": null
+  }]
+}

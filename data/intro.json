@@ -1,0 +1,11 @@
+{
+  "endpoint": {
+      "provinces": "https://api-cagar-budaya.vercel.app/api/province",
+      "spesificRegion": {
+        "pattern": "https://api-cagar-budaya.vercel.app/api/cagar-budaya/{kodewilayah}",
+        "example": "https://api-cagar-budaya.vercel.app/api/cagar-budaya/010000"
+      }
+  },
+  "maintaner": "Muhamad Zainal Arifin <Muhamadzaindev@gmail.com>",
+  "source": "https://github.com/Zainal21/Cagarbudaya-list-api"
+}

@@ -1,0 +1,22 @@
+{
+  "data": [{
+    "cagar_budaya_id": "AFAF7AFA-72AE-4859-B8A2-A26D808C9E3D",
+    "kode_pengelolaan": "KB000683",
+    "nama": "Gereja Protestan Kota Kupang",
+    "alamat_jalan": "Jl. Soekarno No.23 ",
+    "desa_kelurahan": "Lahi Lai Bisikopan",
+    "kecamatan": "Kec. Kelapa Lima",
+    "kabupaten_kota": "Kota Kupang",
+    "propinsi": "Prop. Nusa Tenggara Timur",
+    "lintang": "-10.1626072",
+    "bujur": "123.5778129",
+    "nomor_penetapan": "KM.51\/OT.007\/MKP\/2004",
+    "tanggal_penetapan": "2004-08-10 00:00:00.000",
+    "batas_barat": "Jalan Ir. Soekarno",
+    "batas_selatan": "Kantor Pertanian dan Permukiman",
+    "batas_utara": "Perumahan",
+    "batas_timur": "Jalan Pancasila",
+    "pemilik": "Jemaat Gereja Kota Kupang",
+    "pengelola": "-"
+  }]
+}
